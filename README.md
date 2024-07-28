@@ -1,2 +1,2 @@
 # sleepy
-Are you online/sleeping? / 个人在线状态监测
+Are you awake/sleeping/dead? / 个人在线状态监测
